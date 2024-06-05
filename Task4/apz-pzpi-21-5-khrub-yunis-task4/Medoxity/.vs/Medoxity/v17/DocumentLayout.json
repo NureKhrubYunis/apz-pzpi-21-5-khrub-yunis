@@ -1,0 +1,1595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\direct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\direct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\document.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\document.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\drug.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\drug.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\drugs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\drugs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\medoxity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\medoxity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\drugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\drugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\idrugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\idrugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\drugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\wwwroot\\locales\\uk\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\wwwroot\\locales\\uk\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\wwwroot\\locales\\en\\transalation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\wwwroot\\locales\\en\\transalation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\wwwroot\\js\\localization.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\wwwroot\\js\\localization.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\accessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\accessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\medoxity.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\medoxity.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\ratinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\ratinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\addratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\addratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\addcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\addcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\sendmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\sendmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\drugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\drugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\drug.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\drug.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\arduinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\arduinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\iarduinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\iarduinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\medoxity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\medoxity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\iaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\iaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\messageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\messageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\models\\medicalplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\models\\medicalplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\commentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\commentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\drugservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\drugservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\accessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\accessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\idrugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\idrugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\ratingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\ratingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\likeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\likeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\services\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\services\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity.tests\\documentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235425B-C806-46DC-B9B5-9C9D226C115B}|Medoxity.Tests\\Medoxity.Tests.csproj|solutionrelative:medoxity.tests\\documentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|c:\\users\\admin\\source\\repos\\medoxity\\medoxity\\repositories\\iaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E6FBE-DFB6-4C6D-9E8F-DC7BCB273905}|Medoxity\\Medoxity.csproj|solutionrelative:medoxity\\repositories\\iaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Document.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Document.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Document.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Document.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAuwHYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T11:00:02.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:28:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drugs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drugs.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Drugs.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drugs.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Drugs.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:41:36.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drug.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drug.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Drug.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drug.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Drug.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:41:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Login.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:41:42.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Direct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Direct.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Direct.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Direct.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Direct.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:23:25.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:32:01.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Profile.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T16:57:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Medoxity.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Medoxity.http",
+              "RelativeDocumentMoniker": "Medoxity\\Medoxity.http",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Medoxity.http",
+              "RelativeToolTip": "Medoxity\\Medoxity.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-30T03:38:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Admin.cshtml",
+              "ViewState": "AQIAALgAAAAAAAAAAAAuwMsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:46:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T16:05:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LikesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\LikesController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\LikesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\LikesController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\LikesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:06:55.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrugsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\DrugsController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\DrugsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\DrugsController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\DrugsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:06:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:06:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Medoxity\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Medoxity\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-05T11:29:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:17:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDrugService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IDrugService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IDrugService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IDrugService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IDrugService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:06:30.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\DocumentService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\DocumentService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:17:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:09:04.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:06:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IDocumentRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:31:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Document.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:52:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Register.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:37:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:11:33.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:05:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:40:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:42:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DrugService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\DrugService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\DrugService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\DrugService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\DrugService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:23.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\RatingController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:07:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ICommentService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:11:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\CommentService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\CommentService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:02:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:09:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:06:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:51:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccessService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\AccessService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\AccessService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\AccessService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\AccessService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:59:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ArduinoController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\ArduinoController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\ArduinoController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\ArduinoController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\ArduinoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:38:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Medoxity.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\Medoxity.Tests.csproj",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\Medoxity.Tests.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\Medoxity.Tests.csproj",
+              "RelativeToolTip": "Medoxity.Tests\\Medoxity.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T22:22:19.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\RatingService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\RatingService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\RatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:44:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Medoxity\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Medoxity\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-05T08:24:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "localization.js",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\js\\localization.js",
+              "RelativeDocumentMoniker": "Medoxity\\wwwroot\\js\\localization.js",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\js\\localization.js",
+              "RelativeToolTip": "Medoxity\\wwwroot\\js\\localization.js",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAowKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-05T08:24:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "transalation.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\locales\\en\\transalation.json",
+              "RelativeDocumentMoniker": "Medoxity\\wwwroot\\locales\\en\\transalation.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\locales\\en\\transalation.json",
+              "RelativeToolTip": "Medoxity\\wwwroot\\locales\\en\\transalation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T08:45:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "translation.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\locales\\uk\\translation.json",
+              "RelativeDocumentMoniker": "Medoxity\\wwwroot\\locales\\uk\\translation.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\wwwroot\\locales\\uk\\translation.json",
+              "RelativeToolTip": "Medoxity\\wwwroot\\locales\\uk\\translation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T08:45:51.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\appsettings.json",
+              "RelativeDocumentMoniker": "Medoxity\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\appsettings.json",
+              "RelativeToolTip": "Medoxity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T14:41:49.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\ILikeRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\ILikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:35:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\LikeRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\LikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:25:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IRatingRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:09:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\RatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:20.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Rating.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:28:38.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RatingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\RatingInfo.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\RatingInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\RatingInfo.cs",
+              "RelativeToolTip": "Medoxity\\Models\\RatingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:17:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MobileController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\MobileController.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Controllers\\MobileController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Controllers\\MobileController.cs",
+              "RelativeToolTip": "Medoxity\\Controllers\\MobileController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:48:18.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IRatingService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IRatingService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IRatingService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IRatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:31:54.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Message.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:39:00.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddCommentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\AddCommentRequest.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\AddCommentRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\AddCommentRequest.cs",
+              "RelativeToolTip": "Medoxity\\Models\\AddCommentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:52:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddRatingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\AddRatingRequest.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\AddRatingRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\AddRatingRequest.cs",
+              "RelativeToolTip": "Medoxity\\Models\\AddRatingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:56:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SendMessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\SendMessageRequest.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\SendMessageRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\SendMessageRequest.cs",
+              "RelativeToolTip": "Medoxity\\Models\\SendMessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:49:07.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Login.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:53:48.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Like.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Like.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:42:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Drug.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Drug.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Drug.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Drug.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Drug.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:46:36.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\Comment.cs",
+              "RelativeToolTip": "Medoxity\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:21:42.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Medoxity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Medoxity\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T04:46:16.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Messages.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Messages.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Messages.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Messages.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Messages.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:19:20.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:56:21.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IMessageService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IMessageService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:11:31.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\MessageService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\MessageService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:14:55.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:24:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:31:55.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DrugRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\DrugRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\DrugRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\DrugRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\DrugRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:20:12.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Drug.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drug.cshtml.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Drug.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Drug.cshtml.cs",
+              "RelativeToolTip": "Medoxity\\Pages\\Drug.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:59:09.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Medoxity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:34:53.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Program.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Program.cs",
+              "RelativeToolTip": "Medoxity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:06:26.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IArduinoService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IArduinoService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IArduinoService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IArduinoService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IArduinoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:09:27.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\SensorData.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\SensorData.cs",
+              "RelativeToolTip": "Medoxity\\Models\\SensorData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:20:18.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ArduinoService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ArduinoService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\ArduinoService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ArduinoService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\ArduinoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:08:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Medoxity\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:05:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Medoxity\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:41:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Pages\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Pages\\Profile.cshtml.cs",
+              "RelativeToolTip": "Medoxity\\Pages\\Profile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:22:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\User.cs",
+              "RelativeToolTip": "Medoxity\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:10:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Medoxity.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Medoxity.csproj",
+              "RelativeDocumentMoniker": "Medoxity\\Medoxity.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Medoxity.csproj",
+              "RelativeToolTip": "Medoxity\\Medoxity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T02:37:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MedicalPlatformContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\MedicalPlatformContext.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Models\\MedicalPlatformContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Models\\MedicalPlatformContext.cs",
+              "RelativeToolTip": "Medoxity\\Models\\MedicalPlatformContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:38:43.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\UserServiceTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:33:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DocumentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\DocumentServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\DocumentServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\DocumentServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\DocumentServiceTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:18:50.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "LikeServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\LikeServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\LikeServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\LikeServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\LikeServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:16:44.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ILikeService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ILikeService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\ILikeService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\ILikeService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\ILikeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:15:50.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "LikeService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\LikeService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\LikeService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\LikeService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\LikeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:15:47.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IDrugRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IDrugRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IDrugRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IDrugRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IDrugRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:06:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IUserService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:55:06.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\UserService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:29.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:31:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IAccessService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IAccessService.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Services\\IAccessService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Services\\IAccessService.cs",
+              "RelativeToolTip": "Medoxity\\Services\\IAccessService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:59:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AccessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\AccessRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\AccessRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\AccessRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\AccessRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:59:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IAccessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IAccessRepository.cs",
+              "RelativeDocumentMoniker": "Medoxity\\Repositories\\IAccessRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity\\Repositories\\IAccessRepository.cs",
+              "RelativeToolTip": "Medoxity\\Repositories\\IAccessRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:59:06.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CommentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\CommentServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\CommentServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\CommentServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\CommentServiceTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:37:15.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RatingServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\RatingServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\RatingServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\RatingServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\RatingServiceTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:36:48.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MessageServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\MessageServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\MessageServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\MessageServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\MessageServiceTest.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:22:01.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "DrugServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\DrugServiceTest.cs",
+              "RelativeDocumentMoniker": "Medoxity.Tests\\DrugServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Medoxity\\Medoxity.Tests\\DrugServiceTest.cs",
+              "RelativeToolTip": "Medoxity.Tests\\DrugServiceTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:15:07.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
